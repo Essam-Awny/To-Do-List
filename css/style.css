@@ -1,0 +1,36 @@
+img{
+    width: 20px;
+}
+li{
+    /* list-style: none; */
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.icon{
+    
+}
+p{
+    margin-bottom: 0.8px !important;
+    margin-left: 5px ;
+}
+input{
+    flex: 1;
+}
+/* ul li{
+    cursor: pointer;
+    position: relative;
+}
+ul li::before{
+    content: '';
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    position: absolute;
+    background-image: url(../images/unchecked.png);
+    background-position: center;
+    background-size: cover;
+    top: 0px;
+    left: -29px;
+} */
